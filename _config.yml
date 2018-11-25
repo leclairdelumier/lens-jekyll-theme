@@ -11,15 +11,15 @@ collections:
 
 # Social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/anas.stoune
+github_url: https://leclairdelumier.github.io/new/
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
